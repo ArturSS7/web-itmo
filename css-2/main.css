@@ -13,35 +13,35 @@ img{
 }
 
 #header{ 
-    background-color: yellow;
+    background-color: grey;
 }
 
 #leftSidebar{
-    background-color: lime;
+    background-color: yellow;
     float: left;
-    width: 130px;
+    width: 150px;
     height: 200px;
     margin-left: 10px;
     margin-top: 50px;
 }
 
 #rightSidebar{
-    background-color: lime;
+    background-color: yellow;
     float: right;
-    width: 130px;
+    width: 150px;
     height: 200px;
     margin-top: 50px;
     margin-right: 10px;
 }
 
 #main{
-    background-color: orange;
+    background-color: deepskyblue;
     height: 500px;
-    width: 920px;
-    margin-left: 170px;
-    margin-right: 170px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #footer{ 
-background-color: red;
+background-color: greenyellow;
 }
